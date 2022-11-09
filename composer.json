@@ -1,0 +1,20 @@
+{
+    "name": "erfan_kateb_saber/telegram_bot",
+    "description": "This is a project to create a Telegram bot.",
+    "type": "project",
+    "require": {
+        "php": "^8.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ErfanKatebSaber\\TelegramBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erfan Kateb Saber",
+            "email": "kateberfan2@gmail.com"
+        }
+    ]
+}
