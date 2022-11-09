@@ -6,11 +6,6 @@
         "php": "^8.0"
     },
     "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "ErfanKatebSaber\\TelegramBot\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Erfan Kateb Saber",
